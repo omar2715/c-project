@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1731828813 source:d:\docs\std\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1731829119 d:\docs\std\sdb.h
+	<stdio.h>
+	<stdlib.h>
+
+1731830825 source:d:\docs\std\sdb.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1731830825 source:d:\docs\std\sdbapp.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
